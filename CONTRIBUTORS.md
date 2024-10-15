@@ -352,6 +352,8 @@
 
 - [@Samyuktakarthikeyan](https://github.com/SamyuktaKarthikeyan)
 
+- [@rachel-yos](https://github.com/rachel-yos)
+
 - [@Sannabs](https://github.com/Sannabs/)
 
 - [@Sarthak132](https://github.com/sarthak132)
